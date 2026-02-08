@@ -1,0 +1,26 @@
+10 10
+Portaaviones
+Vertical
+B 2
+Rojo
+Tocado
+Fragata
+Vertical
+B 
+2
+Verde
+Tocado
+FIN
+Fragata
+Horizontal
+B
+2
+Rojo
+Tocado
+Portaaviones
+Vertical
+B
+2
+Verde
+Hundido
+FIN

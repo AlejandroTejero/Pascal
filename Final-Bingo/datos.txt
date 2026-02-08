@@ -1,0 +1,52 @@
+rojo 3 2 10 12 8
+verde
+3 2
+10
+12 32 amarillo 3 4 2
+50 4
+Fin
+
+rojo 7 2 50 2 8
+verde
+3 20
+10
+12 32 amarillo 3 4 5 2
+50
+Fin
+
+rojo 8 2 3 2 8
+verde
+33 5
+10
+12 32 amarillo 3 4 5 20
+50
+Fin
+
+
+rojo 3
+amarillo 55
+rojo 12
+verde 3
+
+
+rojo 2
+rojo 10
+rojo 8
+verde 3
+rojo 30
+amarillo 3
+verde 2
+verde 20
+amarillo 5
+verde 10
+verde 12
+verde 32
+amarillo 4
+amarillo 2
+amarillo 50
+amarillo 4
+rojo 99
+rojo 88
+rojo 77
+rojo 50
+

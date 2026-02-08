@@ -1,0 +1,25 @@
+10 10
+Submarino Horizontal
+B 2
+Rojo
+Tocado
+Fragata
+Vertical
+C
+3
+Verde
+Hundido
+FIN
+Fragata
+Horizontal
+B
+5
+Rojo
+Tocado
+Fragata
+Vertical
+E
+3
+Verde
+Hundido
+FIN
